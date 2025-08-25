@@ -20,3 +20,6 @@ knife4j:
         api-rule: package
         api-rule-resources:
           - com.fantasy.haiguitangai.controller
+# 接入 AI 大模型
+ai:
+  apiKey: <Your apiKey>
